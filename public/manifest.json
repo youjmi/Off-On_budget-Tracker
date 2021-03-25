@@ -1,0 +1,23 @@
+{
+    "icons": [
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "Budget Tracker App",
+    "short_name": "BTA",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/",
+    "description": "An application that allows you to keep track of your finances.",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff"
+  }
