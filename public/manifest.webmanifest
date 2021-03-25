@@ -15,7 +15,7 @@
     "short_name": "BTA",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "/",
+    "start_url": "/index.html",
     "description": "An application that allows you to keep track of your finances.",
     "background_color": "#01579b",
     "theme_color": "#ffffff",
