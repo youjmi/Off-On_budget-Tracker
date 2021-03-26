@@ -62,10 +62,10 @@ Thank you for having the time to view my work.
 
 I would like to give special acknowledgement to my study group as well. We assist one another by providing Feedback, Brainstorming, and general support:
 
-Rachel Wanke - https://github.com/rwanke14
-Amir Ashtiany - https://github.com/Alexfit4
-Johnnie Simpson - https://github.com/balokdecoy
-Frankie Rosado - https://github.com/Franciscorosado09
+1.  Rachel Wanke - https://github.com/rwanke14
+2.  Amir Ashtiany - https://github.com/Alexfit4
+3.  Johnnie Simpson - https://github.com/balokdecoy
+4.  Frankie Rosado - https://github.com/Franciscorosado09
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
