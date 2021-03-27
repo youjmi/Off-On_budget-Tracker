@@ -59,6 +59,9 @@ npm start
 * Fifth Picture : Status is Online and Up to date. "Pending" in my indexedDB is no longer there. 
 <img width="1440" alt="Screen Shot 2021-03-25 at 10 34 15 PM" src="https://user-images.githubusercontent.com/73494581/112569563-d01e1d00-8dba-11eb-88b1-6dd57549e9fa.png">
 
+* Sixth Picture : Showing that service worker works and gives user option to install the app. 
+![Screen Shot 2021-03-26 at 8 25 49 PM (2)](https://user-images.githubusercontent.com/73494581/112704606-90663c80-8e71-11eb-8cb0-0392c60da8b1.png)
+
 
 ## Contribution 
 Thank you for having the time to view my work.
