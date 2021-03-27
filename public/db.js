@@ -1,8 +1,6 @@
 let db;
 // request budget db
 const request = indexedDB.open('budget', 1);
-window.addEventListener("online",checkDatabase)
-window.onoffline = (event) => {console.log("You are now Offline")}
 
 request.onupgradeneeded = function (event) {
     //creates and returns new object store or index called 'pending'
@@ -57,6 +55,9 @@ function checkDatabase() {
         }
     }
 }
+window.addEventListener("online",checkDatabase)
+window.onoffline = (event) => {console.log("You are now Offline")}
+
 
 
 
